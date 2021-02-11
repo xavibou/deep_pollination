@@ -6,5 +6,7 @@ This is a research project on Insect Image Classification for Monitoring of Poll
 The project consisted in the creation (and solution) of a CodaLab challenge for Image Classification of bees, wasps, butterflies, other insects and non-insect images. The source code is not provided since it could be used by challenge participants (which would be cheating! :) ).
 
 Challenge can be accessed at: https://competitions.codalab.org/competitions/28635
+
 Files for challenge can be accessed at: https://github.com/Ecologists/deep_pollination/
+
 Museum link: https://www.mnhn.fr/fr
